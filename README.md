@@ -1,0 +1,1 @@
+The objective of this project is to develop predictive models using Linear Regression, Stepwise Regression, and XGBoost Regression to estimate the contribution of various food category Consumer Price Indexes (CPI) to the overall Food CPI.
